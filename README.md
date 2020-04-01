@@ -1,4 +1,4 @@
-# 这是一个黑马Vue教程的练手项目
+# 这是一个Vue的vms手项目
 
 
 ## [主流开源协议之间有何异同？](https://www.zhihu.com/question/19568896)
